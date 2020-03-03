@@ -1,10 +1,10 @@
 ---
 layout: home
-title: A simple starter kit for Eleventy
+title: "\U0001F44B Hi, I am Sarah"
 postsHeading: Latest posts
 archiveButtonText: See all posts
 socialImage: ''
 ---
-Hylia is a lightweight [Eleventy](https://11ty.io) starter kit with [Netlify CMS](https://www.netlifycms.org/) pre-configured, so that you can one-click install a progressive, accessible blog in minutes. It also gives you a well organised starting point to extend yourself.
+Hi! I am Sarah Lashinsky, an Atlanta native and a product designer at [Mailchimp](https://mailchimp.com/).
 
-Get started now by [deploying Hylia to Netlify.](https://app.netlify.com/start/deploy?repository=https://github.com/hankchizljaw/hylia&stack=cms)
+Previously, I spent a few years sneaking hands-on learning into the public education system as a design educator with[STE(A)M Truck](http://www.steamtruck.org/), an Atlanta-based nonprofit that brings high-tech tools and technologies to the city's most under-resourced elementary- and middle-schools in the form of a mobile makerspace.
