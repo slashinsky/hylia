@@ -1,7 +1,7 @@
 ---
 layout: layouts/page.njk
 title: Illustration
-permalink: /work
+permalink: /illustration
 ---
 Here is my art
 
